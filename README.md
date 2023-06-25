@@ -21,7 +21,7 @@ Django To-Do List is a web application that allows users to manage their to-do i
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/django-todo-list.git
+git clone https://github.com/sevolord/django-todo-list.git
 
 2. Create database migrations:
 
